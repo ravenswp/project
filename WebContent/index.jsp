@@ -20,5 +20,8 @@
 	<div>
 		footer 영역
 	</div>
+	<div>
+		swp 나머지 영역
+	</div>
 </body>
 </html>
