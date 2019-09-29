@@ -8,5 +8,17 @@
 </head>
 <body>
 	<h1>인덱스 페이지</h1>
+	<div class="header">
+		header 영역
+	</div>
+	<div class="menu">
+		menu 영역
+	</div>
+	<div class="section">
+		section 영역
+	</div>
+	<div>
+		footer 영역
+	</div>
 </body>
 </html>
