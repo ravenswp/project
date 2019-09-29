@@ -8,6 +8,7 @@
 </head>
 <body>
 	<h1>인덱스 페이지</h1>
+	<h2>인덱스 페이지</h2>
 	<div class="header">
 		header 영역
 	</div>
@@ -22,6 +23,9 @@
 	</div>
 	<div>
 		swp 나머지 영역
+	</div>
+	<div>
+		나머지 영역
 	</div>
 </body>
 </html>
